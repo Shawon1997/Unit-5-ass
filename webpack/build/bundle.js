@@ -1,0 +1,1 @@
+(()=>{const e=document.getElementById("root"),n=document.createElement("h1");n.innerHTML="my name is shawon biswas, right now i am in masai",e.append(n)})();
