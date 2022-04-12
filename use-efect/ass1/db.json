@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "name": "i am a student",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "how are you",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "learn react",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "learn redux",
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "learn Mongodb",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
