@@ -1,0 +1,6 @@
+.child{
+    background-color: rgb(12, 146, 2);
+    color: yellow;border: none;margin: 10px;padding: 10px;border-radius: 10px;
+}
+
+.child:hover{background-color: rgb(220, 129, 212);zoom: 110%;}
