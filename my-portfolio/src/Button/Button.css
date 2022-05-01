@@ -1,0 +1,5 @@
+.button{width: 100px;height: 40px;border-radius: 6px;color:white;
+   border: 1px solid white;text-align: center;}
+
+    .button>p{ font-size: 25px;margin-top: 5px;}
+    .button:hover{zoom: 110%;background-color: rgb(196, 8, 8);border: none;}
